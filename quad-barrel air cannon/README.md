@@ -2,7 +2,8 @@ Quad-Barrel Air Cannon demo video: https://youtu.be/a1XdPYEsf_o
 
 Quad-Barrel Air Cannon build video: https://youtu.be/Rig2nZphQ7A
 
-Note: quad-cannon-button.ino is the file used in the build video and project writeup.
+*Note*: quad-cannon-button.ino is the file used in the build video and project writeup.
+
 quad-cannon-nunchuk.ino is the file I used for my personal launcher in the demo video.
 
 *** DISCLAIMER***: I am a hobbyist, not a programming professional.
