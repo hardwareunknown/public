@@ -1,15 +1,16 @@
 Quad-Barrel Air Cannon demo video: https://youtu.be/a1XdPYEsf_o
+
 Quad-Barrel Air Cannon build video: https://youtu.be/Rig2nZphQ7A
 
 Note: quad-cannon-button.ino is the file used in the build video and project writeup.
 quad-cannon-nunchuk.ino is the file I used for my personal launcher in the demo video.
 
-*** DISCLAIMER***: ***I am a hobbyist, not a programming professional.
+*** DISCLAIMER***: *I am a hobbyist, not a programming professional.*
 
 I am providing the code in this repository as examples of what you can use for your projects.
-The files have not been tested by professionals, and ***NONE OF THEM ARE GUARANTEED TO BE BUG-FREE.***
+The files have not been tested by professionals, and *NONE OF THEM ARE GUARANTEED TO BE BUG-FREE.*
 
-***Using code that you have not fully tested for issues (including the files posted here) COULD
+Using code that you have not fully tested for issues (including the files posted here) ***COULD
 CAUSE YOUR CANNON TO FIRE WHEN YOU DO NOT INTEND IT TO, EVEN WITHOUT YOU PHYSICALLY PUSHING THE FIRE
 BUTTON/TRIGGER/ETC., CAUSING DAMAGE, INJURY, OR DEATH.***
 
