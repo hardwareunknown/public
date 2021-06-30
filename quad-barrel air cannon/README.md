@@ -4,9 +4,9 @@ Quad-Barrel Air Cannon build video: https://youtu.be/Rig2nZphQ7A
 
 --------
 
-quad-cannon-button.ino is the file used in the build video and project writeup.
+*quad-cannon-button.ino is the file used in the build video and project writeup.*
 
-quad-cannon-nunchuk.ino is the file I used for my personal launcher in the demo video.
+*quad-cannon-nunchuk.ino is the file I used for my personal launcher in the demo video.*
 It is provided purely as an example; you will need to work out your own hardware additions/
 programming changes in order to use a wireless controller to operate your cannon.
 
