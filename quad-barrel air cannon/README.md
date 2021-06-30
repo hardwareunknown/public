@@ -17,9 +17,9 @@ changes in order to use a wireless controller to operate your cannon.*
 I am providing the code in this repository as examples of what you can use for your projects.
 The files have not been tested by professionals, and NONE OF THEM ARE GUARANTEED TO BE BUG-FREE.
 
-Using code that you have not fully tested for issues (including the files posted here) ***COULD
+Using code that you have not fully tested for issues (including the files posted here) **COULD
 CAUSE YOUR CANNON TO FIRE WHEN YOU DO NOT INTEND IT TO, EVEN WITHOUT YOU PHYSICALLY PUSHING THE FIRE
-BUTTON/TRIGGER/ETC., CAUSING DAMAGE, INJURY, OR DEATH.***
+BUTTON/TRIGGER/ETC., CAUSING DAMAGE, INJURY, OR DEATH.**
 
 Make sure you test all the code with the cannons depressurized to ensure they work as intended before adding
 any air pressure. This does not guarantee your safety, but it may reduce the risk of injury. If you choose to
