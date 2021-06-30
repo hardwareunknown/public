@@ -1,17 +1,11 @@
-*** DISCLAIMER ***: I am a hobbyist, not a programming professional. 
+*** DISCLAIMER***: I am a hobbyist, not a programming professional.
 
 I am providing the code in this repository as examples of what you can use for your projects.
 The files have not been tested by professionals, and NONE OF THEM ARE GUARANTEED TO BE BUG-FREE.
 
-For potentially dangerous projects like the quad-barrel air cannon, using code that you have not
-fully tested for issues (including the files posted here) COULD CAUSE YOUR CANNON TO FIRE WHEN YOU 
-DO NOT INTEND IT TO, EVEN WITHOUT YOU PHYSICALLY PUSHING THE FIRE BUTTON/TRIGGER/ETC., CAUSING DAMAGE, 
-INJURY, OR DEATH. Make sure you test all the code with the cannons depressurized to ensure they work 
-as intended before adding any air pressure. This does not guarantee your safety, but it may reduce the
-risk of injury. If you choose to build this project (and other potentially dangerous projects), you do
-so at your own risk. I do not accept any responsibility for any/all damage, injuries, or death related
-to your building or use of a similar device. Check your local laws before making an air cannon, as some
-cities, counties, and states do not allow them.
+Using code that you have not fully tested for issues (including the files posted here) ***may result
+in unwanted performance that, depending on the project the code is used for, COULD CAUSE DAMAGE,
+INJURY, OR DEATH.***
 
-I'm assuming my own risks using the code included in this repository and you need to do so as well
-if you choose to use it yourself.
+*I'm assuming my own risks using the code included in this repository and you need to do so as well if you
+choose to use it yourself.*
