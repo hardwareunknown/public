@@ -1,4 +1,4 @@
-Manufacturing files for the blinking circuit board shown in the "How to Make a PCB (Beginner's Guide)" video. This is a single-side version of the circuit found in the Getting to Blinky 5.0 course by Contextual Electronics (https://contextualelectronics.com/courses/getting-to-blinky-5-0/).
+Manufacturing files for the blinking circuit board shown in the "How to Make a PCB (Beginner's Guide)" video (https://youtu.be/la5BafeXsUI). This is a single-side version of the circuit found in the Getting to Blinky 5.0 course by Contextual Electronics (https://contextualelectronics.com/courses/getting-to-blinky-5-0/).
 
 To purchase:
 
