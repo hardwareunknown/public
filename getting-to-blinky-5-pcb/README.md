@@ -1,3 +1,10 @@
 Manufacturing files for the blinking circuit board shown in the "How to Make a PCB (Beginner's Guide)" video.
 
-To purchase, go to https://jlcpcb.com/HWN (the HWN extension gives you some free coupons and helps the channel at the same time) and create a profile. Click the "order now" button at the top of the page and follow the instructions in the video. When you are upoading the gerber files, simply drag and drop the entire ZIP folder as-is, no need to extract it first. Select the "Assemble your PCB boards" radio button, upload the BOM and CPL files on the following page, then complete the order process as normal. Enjoy your first PCB!
+To purchase:
+
+1) Go to https://jlcpcb.com/HWN (the HWN extension gives you some free coupons and helps the channel at the same time) and create a profile.
+2) Click the "order now" button at the top of the page and follow the instructions in the video.
+3) When you are upoading the gerber files, simply drag and drop the entire ZIP folder as-is (don't extract the files).
+4) Select the "Assemble your PCB boards" radio button at the bottom of the order settings page then click the "confirm" button.
+5) Upload the BOM and CPL files on the following page.
+6) Complete the order process as normal. Enjoy your first PCB!
